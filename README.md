@@ -9,3 +9,6 @@ Toy C++ program that (1) evaluates whether numbers are prime and
 The file PrimeNumberAnalysis.exe is the executable program.
 
 The file PrimeNumberAnalysis.cpp is the C++ code associated with the program.
+
+
+Written in C++ with MS Visual Studio 2017
